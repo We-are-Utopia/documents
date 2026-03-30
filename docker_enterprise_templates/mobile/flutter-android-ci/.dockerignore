@@ -1,0 +1,12 @@
+.git
+.gitignore
+.dart_tool
+build
+.android
+.ios
+.env
+.env.*
+.vscode
+.idea
+Dockerfile*
+docker-compose*.yml
